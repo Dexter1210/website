@@ -1,2 +1,0 @@
-Learning git is fun.
-Use of diff to see the changes in ur repo.
